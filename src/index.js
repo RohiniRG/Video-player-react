@@ -1,5 +1,8 @@
 import React from "react"
 import ReactDOM from "react-dom" 
+const dotenv = require('dotenv');
+
+const API_KEY = 'AIzaSyDX7aP-ibnSkwMOjUiiASlW4gFgldG8e_8'
 
 //  Create a new REACT component. This component produces some HTML
 const App =  () => {
